@@ -1,0 +1,13 @@
+1)
+On céer un classe MoyenneTests qui test chaque méthode avec tous les cas 
+partuclier et d'erreur et on compare les résultats obtenus et attendu
+
+2) 
+Il n'y a pas d'erreur. la méthode calculMoyenne renvoie NAN
+
+3) 
+On obtient une erreur
+
+4) 
+On ne peut pas mettre la méthode main dans la classe Moyenne. Il est 
+necessaire de céer une autre classe pour le test. 
